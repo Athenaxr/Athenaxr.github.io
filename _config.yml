@@ -1,9 +1,9 @@
 # Site Info
 title: Codinfox Lanyon
 tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="https://www.wxfang.online/" target="_blank">@codinfox</a>.'
 baseurl: ""
-url: https://www.wxfang.online/
+url: https://www.wxfang.online
 logo: '/public/logo.png'
 
 # Site configurations
@@ -45,8 +45,6 @@ nav:
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
-  Github Project: 
-    - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
