@@ -18,6 +18,15 @@ If you are interested in academic collaboration or would like to get in touch, f
 - *2025.07*: I attended ELLIS Summer school, EPFL, Switzerland!
 - *2022.02*: &nbsp;🎉🎉 I started my Ph.D. at the CXI group, EPFL, Switzerland!
 
+# ✨ Educational activities
+- *2025.07*: Advancements in High-Resolution Imaging using Next-Generation Light Sources conference. Trieste, Italy
+- *2025.07*: Summer School: AI for Health. École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- *2025.02*: 2025 Beamtime: Multi Frame RPI at NanoMAX. MaxIV, Sweden
+- *2024.08*: Summer School: Fundamentals of Image Analysis. École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- *2024.07*: Coherence Conference. Helsingborg, Sweden
+- *2024.02*, HERCULES School.Université Grenoble Alpes (UGA), France
+
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE NNICE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
