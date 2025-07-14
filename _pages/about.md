@@ -15,8 +15,8 @@ Prior to joining EPFL, I obtained my Master’s degree from Tsinghua University,
 If you are interested in academic collaboration or would like to get in touch, feel free to contact me at: athena_xr@163.com.
 
 # 🔥 News
-- *2025.07*: I attended ELLIS Summer school, EPFL, Switzerland!
-- *2022.02*: &nbsp;🎉🎉 I started my Ph.D. at the CXI group, EPFL, Switzerland!
+- *2024.09*: I passed my first year candidacy exam!
+- *2023.10*: &nbsp;🎉🎉 I started my Ph.D at the CXI group, EPFL, Switzerland!
 
 # ✨ Educational activities
 - *2025.07*: Advancements in High-Resolution Imaging using Next-Generation Light Sources conference. Trieste, Italy
@@ -29,13 +29,22 @@ If you are interested in academic collaboration or would like to get in touch, f
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE NNICE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE NNICE 2023</div><img src='https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10105556/10105661/10105724/10105724-fig-8-source-large.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised Abnormality Detection in Musculoskeletal Radiographs
-with Flow-based Models]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105724))
+with Flow-based Models]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105724](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10105724))
 
 **Wenxuan FANG**, Tang Xian, Kai Zhang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IJCNN 2022</div><img src='https://ieeexplore.ieee.org/mediastore/IEEE/content/media/9891857/9889787/9892613/9892613-fig-1-source-large.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adversarial Learning of Hard Positives for Place Recognition]([https://ieeexplore.ieee.org/document/9892613](https://ieeexplore.ieee.org/document/9892613))
+
+**Wenxuan FANG**, Kai Zhang, Yoli Shavit, Wensen Feng
 </div>
 </div>
 
